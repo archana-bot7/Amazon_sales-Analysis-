@@ -7,19 +7,24 @@ The analysis evaluates overall business performance, customer and market behavio
 ## 📊 Dashboard Overview
 
 
--Brand & Revenue Overview
+#Brand & Revenue Overview
 
-<img width="1065" height="601" alt="Screenshot 2026-10-04 150923" src="https://github.com/user-attachments/assets/9d6c9445-bf43-4bd1-9404-b43408d385db" />
+<img width="1068" height="605" alt="Screenshot 2026-10-06 164359" src="https://github.com/user-attachments/assets/1f6d7c89-ffa6-4ee5-a18f-b5c0d91dcc6d" />
 
 
-- Executive Summary
+
+
+
+#Executive Summary
+<img width="1067" height="588" alt="Screenshot 2026-10-06 164527" src="https://github.com/user-attachments/assets/b29ca860-78c9-487b-b260-091e64d0fcc0" />
+
+
+
+
+#Customer & Operations
   
-<img width="1070" height="597" alt="Screenshot 2026-10-04 150820" src="https://github.com/user-attachments/assets/1638577a-31f1-4ceb-a2e5-5ce90af9560a" />
+<img width="1071" height="597" alt="Screenshot 2026-10-06 164149" src="https://github.com/user-attachments/assets/93d3543f-d5e6-4c7c-b3b9-625221ce81b0" />
 
-
-- Customer & Operations
-  
-<img width="1063" height="581" alt="Screenshot 2026-10-04 150946" src="https://github.com/user-attachments/assets/7d34fe19-aa98-482f-86a2-a9e4e4912943" />
 
 
 
