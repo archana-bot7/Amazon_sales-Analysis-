@@ -32,32 +32,6 @@ Suggested file name:
 - SellerID
 
 
-Dataset
-
-The analysis evaluates overall business performance, customer and market behaviour, and the operational cost structure of an Amazon-style e-commerce dataset.
-
-## Reported fields
-
-- OrderID
-- OrderDate
-- CustomerID
-- CustomerName
-- OrderStatus
-- ProductID
-- ProductName
-- Category
-- Brand
-- Quantity
-- UnitPrice
-- Discount
-- Tax
-- ShippingCost
-- TotalAmount
-- PaymentMethod
-- City
-- State
-- Country
-- SellerID
 
 ### Business questions explored
 
